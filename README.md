@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 💙
 
-<!--
-**Vinichavozo/Vinichavozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinícius Emílio Chaves 
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📧
+
+00001124533394sp@al.educacao.sp.gov.br 
+
+@vinizl_cxi
+
+![](https://media1.tenor.com/m/pipuMqsxPRIAAAAC/bruh-abbott-elementary.gif)
+
